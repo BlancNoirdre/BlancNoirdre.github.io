@@ -1,0 +1,15 @@
+
+.Goback h1 {
+    font-size: 20px;
+    border-radius: 2em;
+    position: 2em;
+    color: #000000;
+}
+.Goback button {
+    background-color: #d3a077;
+    margin-left: 19em;
+    margin-top: 5em;
+    margin-bottom: 5em;
+    position: center;
+    border-radius: 2em;
+}
